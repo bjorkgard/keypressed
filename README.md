@@ -1,20 +1,6 @@
 # keypressed
 
-## Build Setup
+A simple webpage that responds to the key pressed and returns the JavaScript 'on-key pressed' keycode.
 
-```bash
-# install dependencies
-$ yarn install
+[Demo](https://bjorkgard.github.io/keypressed/)
 
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
